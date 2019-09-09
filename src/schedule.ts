@@ -1,5 +1,5 @@
 import * as moment from "moment"
-import {DelayedCall, DelayedCallOptions} from "timeout-extra"
+import {DelayedCall, DelayedCallOptions} from "./delayed-call"
 
 export class Schedule {
 
