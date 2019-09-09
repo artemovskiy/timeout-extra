@@ -1,0 +1,7 @@
+dist
+yarn.lock
+*.log
+node_modules
+.idea
+index.d.ts
+index.js
